@@ -15,7 +15,7 @@ Este projeto consiste em um programa simples de uma conta bancária, criado com 
 
 
 <p align="center">
-  <img alt="design" width="500px" height= "300px" src= "https://user-images.githubusercontent.com/118849369/254666462-425e1923-40f8-45a3-90ae-c3bdaf82b2f1.png">
+  <img alt="design"  src= "https://user-images.githubusercontent.com/118849369/254676062-49db641b-0e04-4958-81b9-e00c1ef8f7e6.gif">
 </p>
 
 ## 🚀 Tecnologias
